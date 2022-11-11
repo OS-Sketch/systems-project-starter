@@ -4,9 +4,9 @@
 
 ## Series of Steps that You Will Perform During the Demonstration
 
-Note: Give a list of steps that you will show in the demonstration
-Note: Use a bulleted list to explain what steps you will take and what they show
-Note: Write at least one paragraph to highlight the key take home points from the demonstration
+TODO: Give a list of steps that you will show in the demonstration
+TODO: Use a bulleted list to explain what steps you will take and what they show
+TODO: Write at least one paragraph to highlight the key take home points from the demonstration
 
 Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim
 labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi
