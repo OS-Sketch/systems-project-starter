@@ -86,7 +86,7 @@ setup: |
 - writing/demonstration.md:
     - description: Ensure that the demonstration.md file exists in the writing/ directory
       check: ConfirmFileExists
-    - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the report
+    - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the demonstration
       check: MatchFileFragment
       options:
         fragment: TODO
