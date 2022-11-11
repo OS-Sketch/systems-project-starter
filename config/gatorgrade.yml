@@ -48,7 +48,7 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
-    - description: Delete the 'Add Your Name Here' prompt in the proposal.md file
+    - description: Delete the 'Add Your Name Here' prompt in the update.md file
       check: MatchFileFragment
       options:
         fragment: "Add Your Name Here"
@@ -70,7 +70,7 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
-    - description: Delete the 'Add Your Name Here' prompt in the proposal.md file
+    - description: Delete the 'Add Your Name Here' prompt in the report.md file
       check: MatchFileFragment
       options:
         fragment: "Add Your Name Here"
@@ -84,7 +84,7 @@ setup: |
 
 # perform checks on a file
 - writing/demonstration.md:
-    - description: Ensure that the report.md file exists in the writing/ directory
+    - description: Ensure that the demonstration.md file exists in the writing/ directory
       check: ConfirmFileExists
     - description: Complete all TODOs, remove the TODO markers, and rewrite comments for the report
       check: MatchFileFragment
@@ -92,7 +92,7 @@ setup: |
         fragment: TODO
         count: 0
         exact: true
-    - description: Delete the 'Add Your Name Here' prompt in the proposal.md file
+    - description: Delete the 'Add Your Name Here' prompt in the demonstration.md file
       check: MatchFileFragment
       options:
         fragment: "Add Your Name Here"
