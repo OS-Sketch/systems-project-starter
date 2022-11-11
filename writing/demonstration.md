@@ -1,6 +1,6 @@
 # Descriptive Title of the Project
 
-## Add You Name Here
+## Add Your Name Here
 
 ## Series of Steps that You Will Perform During the Demonstration
 
